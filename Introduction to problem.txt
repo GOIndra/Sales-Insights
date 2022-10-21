@@ -1,0 +1,25 @@
+PROBLEM STATEMENT:
+Atliq hardware which is a computer hardware and peripheral manufacturing company sales products in different regions of India. But recently they have seen a decline in sales, so sales director of Atliq Hardware Mr. Bhavin Patel struggles to find flaws as regional sales managers are unable to him proper report. So he wants to know simple insights from the analytics team why sales are declining and seeks a proper dashboard report to analyze and visualize better.
+
+SIMPLE INSIGHTS:
+1)	Revenue breakdown by cities
+2)	Revenue breakdown by years and months
+3)	Top 5 customers by revenue and sales quantity
+4)	Top 5 products by revenue number
+
+AIM’S GRID:
+1)	Purpose: To unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spent in data gathering.
+
+2)	Stakeholders:   
+       •	Sales director
+       •	Marketing team
+       •	Customer service team
+
+3)	End Result:  An automated dashboard proving quick and latest sales insights in order to support data driven decision making
+
+4)	Success Criteria:  
+
+       •	Dashboard uncovering sales order insights with latest data available.
+       •	Sales team able to take better decisions and prove 10% cost savings of total sales.
+       •	Sales analysts stop data gathering manually to save 20% of their business time and invest into value added activity.
+
